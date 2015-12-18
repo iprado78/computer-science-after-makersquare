@@ -4,7 +4,7 @@ Computer Science After MakerSquare
 
 The goal: solidify and expand knowledge of CS fundamentals as they relate to contemporary problems that can be approached with computation, while learning new programming languages.
 
-The rationale: Most of the jobs we get out of MakerSquare will involve building user-facing software or writing scripts that solve specific problems.  Extending our knowledge of computer science after MakerSquare will allow us, as graduates, not only to apply this or that recipe to solve some bounded problem, but to think creatively about how to use computation to solve unbouded problems.
+The rationale: most of the jobs we get out of MakerSquare will involve building user-facing software or writing scripts that solve specific problems.  Extending our knowledge of computer science after MakerSquare will allow us, as graduates, not only to apply this or that recipe to solve some bounded problem, but to think creatively about how to use computation to solve unbouded problems.
 
 
 **The Wizard Book**
