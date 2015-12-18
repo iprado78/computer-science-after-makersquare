@@ -18,7 +18,7 @@ The rationale: most of the jobs we get out of MakerSquare will involve building 
 
 **Master List of Computer Science Classes**
 
-[Prakhar Srivastav's][ps][Master List][psl]
+[Prakhar Srivastav's] - [ps][Master List][psl]
 
 
 **EdX**
